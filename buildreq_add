@@ -1,0 +1,25 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+rubygem-http-cookie
+rubygem-jwt
+rubygem-mime-types
+rubygem-multi_json
+rubygem-multi_xml
+rubygem-multipart-post
+rubygem-netrc
+rubygem-rack
+rubygem-rdoc
+rubygem-rest-client
+rubygem-rspec
+rubygem-rspec-core
+rubygem-rspec-expectations
+rubygem-rspec-mocks
+rubygem-rspec-support
+rubygem-simplecov
+rubygem-simplecov-html
+rubygem-term-ansicolor
+rubygem-thor
+rubygem-tins
+rubygem-unf
+rubygem-unf_ext
+rubygem-addressable
