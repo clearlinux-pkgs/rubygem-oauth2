@@ -4,7 +4,7 @@
 #
 Name     : rubygem-oauth2
 Version  : 1.0.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/oauth2-1.0.0.gem
 Source0  : https://rubygems.org/downloads/oauth2-1.0.0.gem
 Summary  : No detailed summary available
