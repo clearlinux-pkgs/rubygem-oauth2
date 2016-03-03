@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-03 21:42:32.801064
+# {'>=0'}
+watchurl=https://rubygems.org/gems/oauth2/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
